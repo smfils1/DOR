@@ -3,7 +3,7 @@
 ## Running Locally
 
 ```bash
-git clone https://smfils1.github.io/DOR/ # or clone your own fork
+git clone https://github.com/smfils1/DOR # or clone your own fork
 ```
 Open project using UnityHub or Unity. The project is being developed in Unity 2019.3.1f1
 
