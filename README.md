@@ -63,7 +63,7 @@ From the menus to the game assets, minimalism is the focus. The characters are s
 ## Figures
 
 
-!#[drawing](https://i.imgur.com/r5KKB03.png)
+![drawing](https://i.imgur.com/r5KKB03.png)
 ![drawing](https://i.imgur.com/deRxgL8.png)
 ![drawing](https://i.imgur.com/3xgorMj.png)
 ![drawing](https://i.imgur.com/5p0XL4Z.png)
